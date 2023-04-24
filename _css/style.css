@@ -8,11 +8,3 @@
 .t-small > P{
     padding-right: 5px;
 }
-
-.call-bg{
-
-    border-radius: 6px;
-    width: 170px;
-    height: 40px;
-    background-color: #4b0872;
-}
