@@ -1,10 +1,32 @@
 @charset "UTF-8";
 
-.t-small{
-    display: flex;
-    font-size: 11px;
+body{
+    background-color: rgb(251 251 251);
 }
 
-.t-small > P{
-    padding-right: 5px;
+.p-smal{
+    font-size: 0.7em;
+}
+
+.text-small{
+    padding-top: 6px;
+    font-size: 0.7rem;
+}
+
+.call-icon{
+    border-radius: 7px;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(171, 35, 189);
+}
+
+.call-icon > img{
+    margin: 11px;
+}
+
+.menu-left{
+    text-align: center;
+    background-color: #ffffff;
+    height: 585px;
+    width: 68px;
 }
